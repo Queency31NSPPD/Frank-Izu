@@ -14,7 +14,12 @@ h2{
     color: rgb(33, 33, 115);
     font-size: 15px;
 }
+img src{
+
+    align-items: center;
+}
+
 picture{
-    text-align: center;
-    font-size: 15px;   
+    align-items: center;
+
 }
