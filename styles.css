@@ -1,0 +1,11 @@
+body{
+    margin: 60px auto;
+    max-width: 800px;
+    display: block;
+    background: #a22020;
+}
+h1{
+    text-align: center;
+    color: rgb(26, 26, 28);
+    font-size: 24px;
+}
